@@ -49,7 +49,7 @@ df3 = pd.DataFrame(
 
 #img
 
-img = Image.open('img/neko.jpg')
+# img = Image.open('img/neko.jpg')
 # st.image(img,caption='neko',use_column_width=True)
 
 #checkbox
